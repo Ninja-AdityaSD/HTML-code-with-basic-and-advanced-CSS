@@ -1,0 +1,40 @@
+*{
+    color: white;
+}
+#navbar{
+    text-decoration: none;
+    background-color: black;
+    height: 60px;
+}
+
+#logo{
+    color: rgb(234, 151, 7);
+}
+#b1{
+    background-color: rgb(234, 151, 7);
+    color: white;
+}
+
+#navbar a{
+    text-decoration: none;
+    margin-right: 200px ;
+}
+
+#qw{
+    color: black;
+}
+.div1{
+    border: 3px solid red;
+    height: 100px;
+    width: 100px;
+    display: inline-block ;     
+}
+
+.qwe{
+    text-align: right;
+    color: white;
+    background-color: rgb(29, 23, 23);
+}
+#content{
+    height: 700px;
+}

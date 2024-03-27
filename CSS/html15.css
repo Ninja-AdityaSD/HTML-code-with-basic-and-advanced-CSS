@@ -1,0 +1,27 @@
+*{
+    text-align: center;
+    position: absolute;
+    left: 100px;
+    top: 50px;
+}
+div{
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+    border: 3px solid black;
+    transition: all;
+}
+
+div:hover{
+    background-color: red;
+    transition-duration:2s ;
+    rotate: z 5deg;
+    transform: scale(2,3);
+}
+
+div:active{
+    background-color: pink;
+    transition-duration:3s;
+    transition-timing-function: ease-in;
+    transition-delay: 2s;
+}

@@ -1,0 +1,25 @@
+*{
+    color: white;
+}
+#navbar{
+    text-decoration: none;
+    background-color: black;
+    height: 60px;
+}
+
+#logo{
+    color: rgb(234, 151, 7);
+}
+#b1{
+    background-color: rgb(234, 151, 7);
+    color: white;
+}
+
+#navbar a{
+    text-decoration: none;
+    margin-right: 200px ;
+}
+
+#qw{
+    color: black;
+}

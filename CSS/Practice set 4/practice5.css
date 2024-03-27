@@ -1,0 +1,8 @@
+#div1{
+    background-image: url("D:/CODE WoRkShOp/HTLM CSS/CSS/css3.png");
+    background-size: contain;
+    height: 100px;
+    width: 100px;
+    position: fixed;
+    right: 60px;
+}

@@ -1,0 +1,15 @@
+*{
+    font-size: larger;
+    background-color: rgb(38, 94, 118);
+}
+
+h1{
+    color: rgb(234, 0, 0);
+}
+
+#h1{
+    color: rgb(255, 132, 0);
+}
+.myclass{
+    color: yellow;
+}
